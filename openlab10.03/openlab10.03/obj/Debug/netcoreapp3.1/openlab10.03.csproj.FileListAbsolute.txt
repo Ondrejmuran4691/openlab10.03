@@ -1,0 +1,14 @@
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\bin\Debug\netcoreapp3.1\openlab10.03.exe
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\bin\Debug\netcoreapp3.1\openlab10.03.deps.json
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\bin\Debug\netcoreapp3.1\openlab10.03.runtimeconfig.json
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\bin\Debug\netcoreapp3.1\openlab10.03.runtimeconfig.dev.json
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\bin\Debug\netcoreapp3.1\openlab10.03.dll
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\bin\Debug\netcoreapp3.1\openlab10.03.pdb
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\obj\Debug\netcoreapp3.1\openlab10.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\obj\Debug\netcoreapp3.1\openlab10.03.AssemblyInfoInputs.cache
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\obj\Debug\netcoreapp3.1\openlab10.03.AssemblyInfo.cs
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\obj\Debug\netcoreapp3.1\openlab10.03.csproj.CoreCompileInputs.cache
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\obj\Debug\netcoreapp3.1\openlab10.03.dll
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\obj\Debug\netcoreapp3.1\openlab10.03.pdb
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\obj\Debug\netcoreapp3.1\openlab10.03.genruntimeconfig.cache
+C:\Users\onkom\source\repos\openlab10.03\openlab10.03\obj\Debug\netcoreapp3.1\openlab10.03.csproj.AssemblyReference.cache
